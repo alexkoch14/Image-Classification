@@ -7,6 +7,7 @@ Topwear, Bottomwear, Innerwear, Bags, Watches, Jewellery, Eyewear, Wallets, Shoe
 Images contain distinct meta-data labels (image id, label, productDisplayName). 
 
 Training Accuracy = 89.5%
+
 Testing Accuracy = 89.6%
 
 # Part 2: Improved Image Classification
